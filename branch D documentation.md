@@ -1,4 +1,4 @@
-# IBSng JSON-RPC API Documentation – Part 1
+# IBSng JSON-RPC API Documentation
 
 This documentation is converted from the `handlers_D.xml` definition file. It describes all available JSON-RPC methods of the IBSng system. The API listens on port **1237** by default.
 
